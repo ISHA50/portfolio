@@ -76,7 +76,7 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "Study Buddy Logo",
+    title: "Chuddy Buddy Logo",
     des: "Crafted a logo for 'Study Buddy,' a YouTube channel blending educational and entertaining content for an engaging learning experience.",
     img: "/Studybuddy.png",
  
